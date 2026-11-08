@@ -331,3 +331,6 @@ mostrarResumenCatalogo(resumenNormal, 'Caso Normal - Superdeportivos y Megacars'
 
 const resumenLimite = procesarCatalogoHiperdeportivos(catalogoLimiteCorrupto);
 mostrarResumenCatalogo(resumenLimite, 'Caso Limite - Registros Invalidos y Datos Corruptos');
+
+
+
